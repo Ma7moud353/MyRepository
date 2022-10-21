@@ -80,6 +80,7 @@ public class Maze
             else
             {
 
+
                 switch(grid[row][col])
 		{
 		case Maze.EMPTY:
@@ -100,6 +101,7 @@ public class Maze
 		default:
 		// Do nothing
 		}
+
 
             }
             
